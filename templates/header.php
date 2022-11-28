@@ -19,7 +19,7 @@
 
   <!-- Swipér -->
   <link rel="stylesheet" href="../../build/CSS/swiper.css">
-  <script src="../../build/js/swipper.js."></script>
+  <script src="../../build/js/swipper.js"></script>
 
   <!-- CSS -->
   <!-- <link rel="stylesheet" href="../../build/CSS/tailwind.min.css"> -->

@@ -126,7 +126,7 @@
             </fieldset>
 
             
-                <input type="submit" value="Crear slider" class="boton boton-verde">
+                <input type="submit" value="Actualizar slider" class="boton boton-verde">
         </form>
     </main>
     

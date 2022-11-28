@@ -8,7 +8,7 @@ $resultado = mysqli_query($db, $query);
 ?>
 
 <?php while ($slider = mysqli_fetch_assoc($resultado)) : ?>
-    <div class="swiper-slide" style="background:linear-gradient(rgba(15,15,15,0.80), rgba(15,15,15,0.80)), url('../../Image/<?= $slider['imagen'] ?>">
+    <div class="swiper-slide" style="background:linear-gradient(rgba(15,15,15,0.80), rgba(15,15,15,0.80)), url('../../image/<?= $slider['imagen'] ?>">
         <h2 class="swiper-title"><?= $slider['titulo'] ?></h2>
         <p class="swiper-description"><?= $slider['descripcion'] ?></p>
         <div class="swiper-buttons">

@@ -55,7 +55,7 @@ INSERT INTO `consulta` (`id`, `nombre`, `email`, `consulta`) VALUES
 CREATE TABLE `slider` (
   `id` int(11) NOT NULL,
   `titulo` varchar(40) NOT NULL,
-  `descripcion` varchar(100) NOT NULL,
+  `descripcion` varchar(400) NOT NULL,
   `imagen` varchar(200) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
